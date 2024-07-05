@@ -1,4 +1,4 @@
-#Automated Database Testing
+# Automated Database Testing
 
 This repository contains automated tests using Selenium and TestNG frameworks in Java for performing database testing on MySQL. The tests ensure data integrity and validate database operations (CRUD) through automated scripts. All the test cases were conducted in Visual Studio Code.
 
