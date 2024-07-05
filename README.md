@@ -17,3 +17,5 @@ This repository contains automated tests using Selenium and TestNG frameworks in
 - ***Delete* Data Tests**: Validates the proper deletion of records from MySQL tables.
 
 The test cases can be found in the file [TestCases.java](src/test/java/TestCases.java).
+
+**Note**: [Magento](https://magento.softwaretestingboard.com/) is only used for testing the retrieved data from the database.
